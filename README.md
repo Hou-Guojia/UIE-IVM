@@ -1,9 +1,9 @@
 # UIE-IVM
-# Code for Single Underwater Image Enhancement using Integrated Variational Model
+# Code for Single underwater image enhancement using integrated variational model
 
 1. This code is for the paper: 
 
-   NanLi, GuojiaHoua, YuhaiLiu, ZhenkuanPan, LuTan,"Single underwater image enhancement using integrated variational model", Digital Sginal Processing, 2022.
+   Nan Li, Guojia Hou, Yuhai Liu, Zhenkan Pan, Lu Tan, "Single underwater image enhancement using integrated variational model", Digital Signal Processing, vol. 129, 103660, 2022. 
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
